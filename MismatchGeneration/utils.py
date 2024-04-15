@@ -1,5 +1,12 @@
 """
+<<<<<<< HEAD
 Utility functions for accessing Wikidata's data and checking Mismatch Finder submissions.
+=======
+Utils
+-----
+
+This file contains utility functions for accessing Wikidata's data and checking Mismatch Finder submissions.
+>>>>>>> c4a81f61b7b4fdf8f24ba9223274bb63279c9694
 
 Contents:
     download_wikidata_json_dump,
@@ -25,6 +32,10 @@ from tqdm.auto import tqdm
 
 logging.disable(logging.WARNING)
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
+<<<<<<< HEAD
+=======
+import tensorflow as tf
+>>>>>>> c4a81f61b7b4fdf8f24ba9223274bb63279c9694
 
 
 def download_wikidata_json_dump(target_dir="Data", dump_id=False):
@@ -43,8 +54,11 @@ def download_wikidata_json_dump(target_dir="Data", dump_id=False):
     -------
         A downloaded bz2 compressed Wikidata dump with printed information on the downloaded file.
     """
+<<<<<<< HEAD
     import tensorflow as tf
 
+=======
+>>>>>>> c4a81f61b7b4fdf8f24ba9223274bb63279c9694
     if not os.path.exists(target_dir):
         print(f"Making {target_dir} directory")
         os.makedirs(target_dir)
@@ -255,7 +269,11 @@ def _process_json_entry(
                     _get_claims_embedded_value(
                         claims_index=prop_claims[pid][idx],
                         data_type=data_type,
+<<<<<<< HEAD
                         value_prop=None,
+=======
+                        value_prop=None
+>>>>>>> c4a81f61b7b4fdf8f24ba9223274bb63279c9694
                     )
                     for idx in range(len(prop_claims[pid]))
                 ]
@@ -265,7 +283,11 @@ def _process_json_entry(
                     _get_claims_embedded_value(
                         claims_index=prop_claims[pid][idx],
                         data_type=data_type,
+<<<<<<< HEAD
                         value_prop=pid_value_props[i],
+=======
+                        value_prop=pid_value_props[i]
+>>>>>>> c4a81f61b7b4fdf8f24ba9223274bb63279c9694
                     )
                     for idx in range(len(prop_claims[pid]))
                 ]
@@ -326,6 +348,7 @@ def parse_wikidata_dump_to_ndjson(
         )
 
     if pid_values:
+<<<<<<< HEAD
         assert (
             len(pids) == len(pid_values)
         ), "If providing a value for `pid_values`, then one value should be provided for each `pid`."
@@ -333,13 +356,26 @@ def parse_wikidata_dump_to_ndjson(
     if pid_value_props:
         assert (
             len(pids) == len(pid_value_props)
+=======
+        assert len(pids) == len(
+            pid_values
+        ), "If providing a value for `pid_values`, then one value should be provided for each `pid`."
+
+    if pid_value_props:
+        assert len(pids) == len(
+            pid_value_props
+>>>>>>> c4a81f61b7b4fdf8f24ba9223274bb63279c9694
         ), "If providing a value for `pid_value_props`, then one value should be provided for each `pid` (pass None if not needed)."
 
     pids = [pids] if isinstance(pids, str) else pids
     pid_values = [pid_values] if isinstance(pid_values, str) else pid_values
+<<<<<<< HEAD
     pid_value_props = (
         [pid_value_props] if isinstance(pid_value_props, str) else pid_value_props
     )
+=======
+    pid_value_props = [pid_value_props] if isinstance(pid_value_props, str) else pid_value_props
+>>>>>>> c4a81f61b7b4fdf8f24ba9223274bb63279c9694
 
     rewrite_file = False
     if not os.path.exists(output_file_path):
