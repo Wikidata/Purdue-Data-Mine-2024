@@ -14,9 +14,9 @@ import bz2
 import json
 import logging
 import os
+import re
 import requests
 from urllib.parse import urlparse
-import warnings
 
 from bs4 import BeautifulSoup
 import numpy as np
@@ -125,7 +125,7 @@ def download_wikidata_json_dump(target_dir="Data", dump_id=False):
             cache_dir=cache_dir,
         )
 
-        file_size = os.stat(target_local_file_path).st_size / 1e9
+        file_size = os.stat(saved_file_path).st_size / 1e9
         print(
             f"Downloaded a compressed dump of Wikidata QIDs ({round(file_size, 2):,} GBs)."
         )
@@ -158,7 +158,7 @@ def _get_claims_embedded_value(
         return data_value["id"]
 
     elif data_type == "quantity":
-        if value_prop == None:
+        if value_prop is None:
             return data_value["amount"]
 
         else:
@@ -169,7 +169,7 @@ def _get_claims_embedded_value(
                 return data_value
 
     elif data_type == "monolingualtext":
-        if value_prop == None:
+        if value_prop is None:
             return data_value["text"]
 
         else:
@@ -245,12 +245,12 @@ def _process_json_entry(
             for claim in prop_claims[pid]:
                 try:
                     data_type = claim["mainsnak"]["datavalue"]["type"]
-                    if data_type != None:
+                    if data_type is not None:
                         break
                 except:
                     pass
 
-            if pid_value_props == None:
+            if pid_value_props is None:
                 all_prop_values = [
                     _get_claims_embedded_value(
                         claims_index=prop_claims[pid][idx],
@@ -274,6 +274,7 @@ def _process_json_entry(
             return True
 
     except Exception as e:
+        print(e)
         return False
 
 
@@ -500,11 +501,11 @@ def check_mf_formatting(df: pd.DataFrame):
     columns_with_invalid_ids = []
     for c in id_columns_included:
         if c == "item_id":
-            if df[c].astype(str).str.match(r"^Q\d+$").all() != True:
+            if not df[c].astype(str).str.match(r"^Q\d+$").all():
                 columns_with_invalid_ids.append(c)
 
         elif c == "property_id":
-            if df[c].astype(str).str.match(r"^P\d+$").all() != True:
+            if not df[c].astype(str).str.match(r"^P\d+$").all():
                 columns_with_invalid_ids.append(c)
 
     if columns_with_invalid_ids:
@@ -524,7 +525,7 @@ def check_mf_formatting(df: pd.DataFrame):
     ]
     columns_with_nulls = []
     for c in required_value_columns_included:
-        if df[c].isnull().values.any() == True:
+        if df[c].isnull().values.any():
             columns_with_nulls.append(c)
 
     if columns_with_nulls:
@@ -553,6 +554,18 @@ def check_mf_formatting(df: pd.DataFrame):
                 "Please assure that `statement_guid` is null only in cases where `wikidata_value` is as well."
             )
 
+        guid_pattern = re.compile(r"^Q\d+\$\w{8}-\w{4}-\w{4}-\w{4}-\w{12}$")
+        guid_patter_matches = df["statement_guid"].apply(
+            lambda x: bool(guid_pattern.match(str(x)))
+        )
+
+        if not guid_patter_matches.any():
+            print("Here")
+            df_formatted_correctly = False
+            correction_instruction.append(
+                "Some values in the column `statement_guid` are not formatted correctly. GUIDs begin with a QID, which is then followed by a dollar sign and alphanumeric characters separated by dashes."
+            )
+
     # 5. Check that all external URLs are valid.
     if "external_url" in df.columns:
         url_validation_checks = [_validate_url(u) for u in df["external_url"]]
@@ -561,7 +574,7 @@ def check_mf_formatting(df: pd.DataFrame):
             invalid_urls = [
                 df["external_url"][i]
                 for i in range(len(url_validation_checks))
-                if url_validation_checks[i] == False
+                if not url_validation_checks[i]
             ]
             url_correction_message = "Please check the following URLs in `external_url` to make sure that they're valid:"
             for u in invalid_urls:
@@ -586,7 +599,7 @@ def check_mf_formatting(df: pd.DataFrame):
     ]
     columns_with_too_long_values = []
     for c in check_value_length_columns_included:
-        if (df[c].str.len() > 1500).any() == True:
+        if (df[c].str.len() > 1500).any():
             columns_with_too_long_values.append(c)
 
     if columns_with_too_long_values:
@@ -598,7 +611,7 @@ def check_mf_formatting(df: pd.DataFrame):
         correction_instruction.append(too_long_value_correction_message)
 
     # Raise exception if there's a data formatting issue or print that all checks have passed.
-    if df_formatted_correctly == False:
+    if not df_formatted_correctly:
         mf_file_creation_directions = """
 There's a problem with the DataFrame. Please see the Mismatch Finder file creation directions on GitHub:
 
