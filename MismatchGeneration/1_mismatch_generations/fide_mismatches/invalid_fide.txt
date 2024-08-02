@@ -1,0 +1,466 @@
+FIDE id not found 12900834
+WIKIDATA: http://www.wikidata.org/entity/Q97960
+FIDE id not found 4103424
+WIKIDATA: http://www.wikidata.org/entity/Q331060
+FIDE id not found 12800198
+WIKIDATA: http://www.wikidata.org/entity/Q338499
+FIDE id not found 300101
+WIKIDATA: http://www.wikidata.org/entity/Q366429
+FIDE id not found 900206
+WIKIDATA: http://www.wikidata.org/entity/Q487109
+FIDE id not found 4101685
+WIKIDATA: http://www.wikidata.org/entity/Q487120
+FIDE id not found 4101685
+WIKIDATA: http://www.wikidata.org/entity/Q487120
+FIDE id not found 610771
+WIKIDATA: http://www.wikidata.org/entity/Q369600
+FIDE id not found 4101529
+WIKIDATA: http://www.wikidata.org/entity/Q434808
+FIDE id not found 302538
+WIKIDATA: http://www.wikidata.org/entity/Q435122
+FIDE id not found 14200376
+WIKIDATA: http://www.wikidata.org/entity/Q250465
+FIDE id not found 1500040
+WIKIDATA: http://www.wikidata.org/entity/Q4586817
+FIDE id not found 400718
+WIKIDATA: http://www.wikidata.org/entity/Q4963669
+FIDE id not found 902462
+WIKIDATA: http://www.wikidata.org/entity/Q6430177
+FIDE id not found 2055740
+WIKIDATA: http://www.wikidata.org/entity/Q6828539
+FIDE id not found 14127350
+WIKIDATA: http://www.wikidata.org/entity/Q12111599
+FIDE id not found 2002558
+WIKIDATA: http://www.wikidata.org/entity/Q12142414
+FIDE id not found 2901323
+WIKIDATA: http://www.wikidata.org/entity/Q12280154
+FIDE id not found 4500369
+WIKIDATA: http://www.wikidata.org/entity/Q12373743
+FIDE id not found 4694805
+WIKIDATA: http://www.wikidata.org/entity/Q14190236
+FIDE id not found 2280361
+WIKIDATA: http://www.wikidata.org/entity/Q27525194
+FIDE id not found 1100165
+WIKIDATA: http://www.wikidata.org/entity/Q4422574
+FIDE id not found 1300415
+WIKIDATA: http://www.wikidata.org/entity/Q4521047
+FIDE id not found 2019574
+WIKIDATA: http://www.wikidata.org/entity/Q4523015
+FIDE id not found 6800017
+WIKIDATA: http://www.wikidata.org/entity/Q1138698
+FIDE id not found 2000814
+WIKIDATA: http://www.wikidata.org/entity/Q1189933
+FIDE id not found 403369
+WIKIDATA: http://www.wikidata.org/entity/Q3515777
+FIDE id not found 4103467
+WIKIDATA: http://www.wikidata.org/entity/Q4240087
+FIDE id not found 1300121
+WIKIDATA: http://www.wikidata.org/entity/Q4247524
+FIDE id not found 1300067
+WIKIDATA: http://www.wikidata.org/entity/Q813100
+FIDE id not found 700282
+WIKIDATA: http://www.wikidata.org/entity/Q831114
+FIDE id not found 400360
+WIKIDATA: http://www.wikidata.org/entity/Q947095
+FIDE id not found 400360
+WIKIDATA: http://www.wikidata.org/entity/Q947095
+FIDE id not found 2000512
+WIKIDATA: http://www.wikidata.org/entity/Q9147122
+FIDE id not found 1100815
+WIKIDATA: http://www.wikidata.org/entity/Q9150678
+FIDE id not found 900141
+WIKIDATA: http://www.wikidata.org/entity/Q551331
+FIDE id not found 700096
+WIKIDATA: http://www.wikidata.org/entity/Q553397
+FIDE id not found 4100638
+WIKIDATA: http://www.wikidata.org/entity/Q675955
+FIDE id not found 1012460
+WIKIDATA: http://www.wikidata.org/entity/Q2446041
+FIDE id not found 700240
+WIKIDATA: http://www.wikidata.org/entity/Q27527815
+FIDE id not found 1100319
+WIKIDATA: http://www.wikidata.org/entity/Q11736246
+FIDE id not found 4102088
+WIKIDATA: http://www.wikidata.org/entity/Q4100517
+FIDE id not found 400505
+WIKIDATA: http://www.wikidata.org/entity/Q1926919
+FIDE id not found 700134
+WIKIDATA: http://www.wikidata.org/entity/Q1675852
+FIDE id not found 4100603
+WIKIDATA: http://www.wikidata.org/entity/Q1749802
+FIDE id not found 1104101
+WIKIDATA: http://www.wikidata.org/entity/Q9354554
+FIDE id not found 1100955
+WIKIDATA: http://www.wikidata.org/entity/Q9359649
+FIDE id not found 1500147
+WIKIDATA: http://www.wikidata.org/entity/Q11239165
+FIDE id not found 14105594
+WIKIDATA: http://www.wikidata.org/entity/Q4252801
+FIDE id not found 4101715
+WIKIDATA: http://www.wikidata.org/entity/Q4314323
+FIDE id not found 4103173
+WIKIDATA: http://www.wikidata.org/entity/Q4319706
+FIDE id not found 1100718
+WIKIDATA: http://www.wikidata.org/entity/Q4369140
+FIDE id not found 2256231
+WIKIDATA: http://www.wikidata.org/entity/Q5724090
+FIDE id not found 3500462
+WIKIDATA: http://www.wikidata.org/entity/Q6047507
+FIDE id not found 3500462
+WIKIDATA: http://www.wikidata.org/entity/Q6047507
+FIDE id not found 1102621
+WIKIDATA: http://www.wikidata.org/entity/Q11724931
+FIDE id not found 1116037
+WIKIDATA: http://www.wikidata.org/entity/Q15963159
+FIDE id not found 13500406
+WIKIDATA: http://www.wikidata.org/entity/Q16106271
+FIDE id not found 300977
+WIKIDATA: http://www.wikidata.org/entity/Q27525407
+FIDE id not found 2001241
+WIKIDATA: http://www.wikidata.org/entity/Q27525506
+FIDE id not found 901261
+WIKIDATA: http://www.wikidata.org/entity/Q27523650
+FIDE id not found 4116208
+WIKIDATA: http://www.wikidata.org/entity/Q27523665
+FIDE id not found 904457
+WIKIDATA: http://www.wikidata.org/entity/Q27523805
+FIDE id not found 12801380
+WIKIDATA: http://www.wikidata.org/entity/Q15812310
+FIDE id not found 1103326
+WIKIDATA: http://www.wikidata.org/entity/Q15963261
+FIDE id not found 1104519
+WIKIDATA: http://www.wikidata.org/entity/Q11781994
+FIDE id not found 1300164
+WIKIDATA: http://www.wikidata.org/entity/Q27527461
+FIDE id not found 4162129
+WIKIDATA: http://www.wikidata.org/entity/Q27527477
+FIDE id not found 4123999
+WIKIDATA: http://www.wikidata.org/entity/Q27527498
+FIDE id not found 14104202
+WIKIDATA: http://www.wikidata.org/entity/Q1372339
+FIDE id not found 100463
+WIKIDATA: http://www.wikidata.org/entity/Q2842364
+FIDE id not found 2500086
+WIKIDATA: http://www.wikidata.org/entity/Q2854985
+FIDE id not found 600059
+WIKIDATA: http://www.wikidata.org/entity/Q3106411
+FIDE id not found 4113497
+WIKIDATA: http://www.wikidata.org/entity/Q27525991
+FIDE id not found 300373
+WIKIDATA: http://www.wikidata.org/entity/Q18236006
+FIDE id not found 1600303
+WIKIDATA: http://www.wikidata.org/entity/Q18238541
+FIDE id not found 12802808
+WIKIDATA: http://www.wikidata.org/entity/Q20503371
+FIDE id not found 12819972
+WIKIDATA: http://www.wikidata.org/entity/Q20503402
+FIDE id not found 12802905
+WIKIDATA: http://www.wikidata.org/entity/Q20503499
+FIDE id not found 101150
+WIKIDATA: http://www.wikidata.org/entity/Q27526288
+FIDE id not found 14000024
+WIKIDATA: http://www.wikidata.org/entity/Q27526323
+FIDE id not found 300110
+WIKIDATA: http://www.wikidata.org/entity/Q27525719
+FIDE id not found 11600160
+WIKIDATA: http://www.wikidata.org/entity/Q4155251
+FIDE id not found 4100476
+WIKIDATA: http://www.wikidata.org/entity/Q4167363
+FIDE id not found 14100355
+WIKIDATA: http://www.wikidata.org/entity/Q4179249
+FIDE id not found 13306731
+WIKIDATA: http://www.wikidata.org/entity/Q4188845
+FIDE id not found 4103971
+WIKIDATA: http://www.wikidata.org/entity/Q4214273
+FIDE id not found 14200090
+WIKIDATA: http://www.wikidata.org/entity/Q4218359
+FIDE id not found 2007924
+WIKIDATA: http://www.wikidata.org/entity/Q27527915
+FIDE id not found 301175
+WIKIDATA: http://www.wikidata.org/entity/Q27528323
+FIDE id not found 4188934
+WIKIDATA: http://www.wikidata.org/entity/Q27524672
+FIDE id not found 1108450
+WIKIDATA: http://www.wikidata.org/entity/Q9153757
+FIDE id not found 1122991
+WIKIDATA: http://www.wikidata.org/entity/Q9158586
+FIDE id not found 1100602
+WIKIDATA: http://www.wikidata.org/entity/Q9175930
+FIDE id not found 700711
+WIKIDATA: http://www.wikidata.org/entity/Q16521391
+FIDE id not found 10100130
+WIKIDATA: http://www.wikidata.org/entity/Q23892788
+FIDE id not found 1100041
+WIKIDATA: http://www.wikidata.org/entity/Q708045
+FIDE id not found 4100565
+WIKIDATA: http://www.wikidata.org/entity/Q724789
+FIDE id not found 900230
+WIKIDATA: http://www.wikidata.org/entity/Q741364
+FIDE id not found 1103164
+WIKIDATA: http://www.wikidata.org/entity/Q19690270
+FIDE id not found 2260263
+WIKIDATA: http://www.wikidata.org/entity/Q20003559
+FIDE id not found 1126920
+WIKIDATA: http://www.wikidata.org/entity/Q20028296
+FIDE id not found 704725
+WIKIDATA: http://www.wikidata.org/entity/Q20436979
+FIDE id not found 904074
+WIKIDATA: http://www.wikidata.org/entity/Q27534036
+FIDE id not found 12800333
+WIKIDATA: http://www.wikidata.org/entity/Q25494275
+FIDE id not found 12802158
+WIKIDATA: http://www.wikidata.org/entity/Q25496058
+FIDE id not found 4301498
+WIKIDATA: http://www.wikidata.org/entity/Q2363374
+FIDE id not found 642371
+WIKIDATA: http://www.wikidata.org/entity/Q27524928
+FIDE id not found 2200813
+WIKIDATA: http://www.wikidata.org/entity/Q27529072
+FIDE id not found 4149483
+WIKIDATA: http://www.wikidata.org/entity/Q27526746
+FIDE id not found 1301551
+WIKIDATA: http://www.wikidata.org/entity/Q27524503
+FIDE id not found 1300520
+WIKIDATA: http://www.wikidata.org/entity/Q27525039
+FIDE id not found 112593
+WIKIDATA: http://www.wikidata.org/entity/Q27525108
+FIDE id not found 12800775
+WIKIDATA: http://www.wikidata.org/entity/Q21803291
+FIDE id not found 13800132
+WIKIDATA: http://www.wikidata.org/entity/Q27531193
+FIDE id not found 904031
+WIKIDATA: http://www.wikidata.org/entity/Q27532158
+FIDE id not found 301930
+WIKIDATA: http://www.wikidata.org/entity/Q57332793
+FIDE id not found 500089
+WIKIDATA: http://www.wikidata.org/entity/Q60832236
+FIDE id not found 502359
+WIKIDATA: http://www.wikidata.org/entity/Q60834390
+FIDE id not found 1900129
+WIKIDATA: http://www.wikidata.org/entity/Q60837969
+FIDE id not found 4193644
+WIKIDATA: http://www.wikidata.org/entity/Q27533114
+FIDE id not found 4103556
+WIKIDATA: http://www.wikidata.org/entity/Q27533820
+FIDE id not found 4102037
+WIKIDATA: http://www.wikidata.org/entity/Q27530186
+FIDE id not found 902560
+WIKIDATA: http://www.wikidata.org/entity/Q27579411
+FIDE id not found 901202
+WIKIDATA: http://www.wikidata.org/entity/Q27579467
+FIDE id not found 700681
+WIKIDATA: http://www.wikidata.org/entity/Q27579529
+FIDE id not found 4117573
+WIKIDATA: http://www.wikidata.org/entity/Q27579735
+FIDE id not found 4113055
+WIKIDATA: http://www.wikidata.org/entity/Q27579738
+FIDE id not found 4103610
+WIKIDATA: http://www.wikidata.org/entity/Q27579763
+FIDE id not found 300489
+WIKIDATA: http://www.wikidata.org/entity/Q27579851
+FIDE id not found 706914
+WIKIDATA: http://www.wikidata.org/entity/Q71297467
+FIDE id not found 13000691
+WIKIDATA: http://www.wikidata.org/entity/Q71297472
+FIDE id not found 701378
+WIKIDATA: http://www.wikidata.org/entity/Q71299084
+FIDE id not found 2002337
+WIKIDATA: http://www.wikidata.org/entity/Q71299107
+FIDE id not found 2100126
+WIKIDATA: http://www.wikidata.org/entity/Q71299261
+FIDE id not found 4129679
+WIKIDATA: http://www.wikidata.org/entity/Q27532338
+FIDE id not found 924393
+WIKIDATA: http://www.wikidata.org/entity/Q28481129
+FIDE id not found 700371
+WIKIDATA: http://www.wikidata.org/entity/Q27579562
+FIDE id not found 2102234
+WIKIDATA: http://www.wikidata.org/entity/Q71302034
+FIDE id not found 2900696
+WIKIDATA: http://www.wikidata.org/entity/Q71302230
+FIDE id not found 13601210
+WIKIDATA: http://www.wikidata.org/entity/Q27533396
+FIDE id not found 500100
+WIKIDATA: http://www.wikidata.org/entity/Q27533834
+FIDE id not found 705683
+WIKIDATA: http://www.wikidata.org/entity/Q71290852
+FIDE id not found 2204940
+WIKIDATA: http://www.wikidata.org/entity/Q71290862
+FIDE id not found 908843
+WIKIDATA: http://www.wikidata.org/entity/Q71290900
+FIDE id not found 908991
+WIKIDATA: http://www.wikidata.org/entity/Q71290904
+FIDE id not found 14500418
+WIKIDATA: http://www.wikidata.org/entity/Q71290971
+FIDE id not found 702013
+WIKIDATA: http://www.wikidata.org/entity/Q71291057
+FIDE id not found 1200380
+WIKIDATA: http://www.wikidata.org/entity/Q71291132
+FIDE id not found 701262
+WIKIDATA: http://www.wikidata.org/entity/Q71291146
+FIDE id not found 4115244
+WIKIDATA: http://www.wikidata.org/entity/Q71291161
+FIDE id not found 701351
+WIKIDATA: http://www.wikidata.org/entity/Q71291228
+FIDE id not found 903140
+WIKIDATA: http://www.wikidata.org/entity/Q71291233
+FIDE id not found 1200720
+WIKIDATA: http://www.wikidata.org/entity/Q71291244
+FIDE id not found 905291
+WIKIDATA: http://www.wikidata.org/entity/Q71291295
+FIDE id not found 14500752
+WIKIDATA: http://www.wikidata.org/entity/Q71291318
+FIDE id not found 13901389
+WIKIDATA: http://www.wikidata.org/entity/Q71291511
+FIDE id not found 4132084
+WIKIDATA: http://www.wikidata.org/entity/Q71291521
+FIDE id not found 1900218
+WIKIDATA: http://www.wikidata.org/entity/Q27579921
+FIDE id not found 1600095
+WIKIDATA: http://www.wikidata.org/entity/Q27579937
+FIDE id not found 1600575
+WIKIDATA: http://www.wikidata.org/entity/Q27579945
+FIDE id not found 14109085
+WIKIDATA: http://www.wikidata.org/entity/Q27579967
+FIDE id not found 14102862
+WIKIDATA: http://www.wikidata.org/entity/Q27580019
+FIDE id not found 14120534
+WIKIDATA: http://www.wikidata.org/entity/Q27580021
+FIDE id not found 13901150
+WIKIDATA: http://www.wikidata.org/entity/Q71307684
+FIDE id not found 304638
+WIKIDATA: http://www.wikidata.org/entity/Q71306503
+FIDE id not found 2007665
+WIKIDATA: http://www.wikidata.org/entity/Q71290533
+FIDE id not found 4104854
+WIKIDATA: http://www.wikidata.org/entity/Q71290821
+FIDE id not found 24129488
+WIKIDATA: http://www.wikidata.org/entity/Q28479843
+FIDE id not found 706191
+WIKIDATA: http://www.wikidata.org/entity/Q71291854
+FIDE id not found 4118537
+WIKIDATA: http://www.wikidata.org/entity/Q71292117
+FIDE id not found 14500841
+WIKIDATA: http://www.wikidata.org/entity/Q71292131
+FIDE id not found 2002167
+WIKIDATA: http://www.wikidata.org/entity/Q71305172
+FIDE id not found 14100550
+WIKIDATA: http://www.wikidata.org/entity/Q71291694
+FIDE id not found 4165950
+WIKIDATA: http://www.wikidata.org/entity/Q71291794
+FIDE id not found 906727
+WIKIDATA: http://www.wikidata.org/entity/Q71292042
+FIDE id not found 3800652
+WIKIDATA: http://www.wikidata.org/entity/Q30309770
+FIDE id not found 1101919
+WIKIDATA: http://www.wikidata.org/entity/Q71302642
+FIDE id not found 600768
+WIKIDATA: http://www.wikidata.org/entity/Q71303008
+FIDE id not found 4176995
+WIKIDATA: http://www.wikidata.org/entity/Q71314861
+FIDE id not found 1100823
+WIKIDATA: http://www.wikidata.org/entity/Q71302792
+FIDE id not found 13600176
+WIKIDATA: http://www.wikidata.org/entity/Q71303193
+FIDE id not found 1206850
+WIKIDATA: http://www.wikidata.org/entity/Q71293405
+FIDE id not found 906140
+WIKIDATA: http://www.wikidata.org/entity/Q71293709
+FIDE id not found 102288
+WIKIDATA: http://www.wikidata.org/entity/Q71293840
+FIDE id not found 101133
+WIKIDATA: http://www.wikidata.org/entity/Q71293102
+FIDE id not found 2004640
+WIKIDATA: http://www.wikidata.org/entity/Q27597945
+FIDE id not found 4134630
+WIKIDATA: http://www.wikidata.org/entity/Q71303402
+FIDE id not found 5900123
+WIKIDATA: http://www.wikidata.org/entity/Q71309090
+FIDE id not found 1300261
+WIKIDATA: http://www.wikidata.org/entity/Q71309223
+FIDE id not found 4167708
+WIKIDATA: http://www.wikidata.org/entity/Q71309248
+FIDE id not found 903906
+WIKIDATA: http://www.wikidata.org/entity/Q71309296
+FIDE id not found 14903490
+WIKIDATA: http://www.wikidata.org/entity/Q71321307
+FIDE id not found 13001256
+WIKIDATA: http://www.wikidata.org/entity/Q71305688
+FIDE id not found 4181450
+WIKIDATA: http://www.wikidata.org/entity/Q101841475
+FIDE id not found 4138627
+WIKIDATA: http://www.wikidata.org/entity/Q101956171
+FIDE id not found 4106385
+WIKIDATA: http://www.wikidata.org/entity/Q103948926
+FIDE id not found 14101297
+WIKIDATA: http://www.wikidata.org/entity/Q104126166
+FIDE id not found 13500112
+WIKIDATA: http://www.wikidata.org/entity/Q104145589
+FIDE id not found 4107900
+WIKIDATA: http://www.wikidata.org/entity/Q104381797
+FIDE id not found 4107900
+WIKIDATA: http://www.wikidata.org/entity/Q104381797
+FIDE id not found 4112547
+WIKIDATA: http://www.wikidata.org/entity/Q104521798
+FIDE id not found 4109341
+WIKIDATA: http://www.wikidata.org/entity/Q104585699
+FIDE id not found 4404092
+WIKIDATA: http://www.wikidata.org/entity/Q71295597
+FIDE id not found 14000482
+WIKIDATA: http://www.wikidata.org/entity/Q71295669
+FIDE id not found 4149297
+WIKIDATA: http://www.wikidata.org/entity/Q71309735
+FIDE id not found 502030
+WIKIDATA: http://www.wikidata.org/entity/Q71309826
+FIDE id not found 706612
+WIKIDATA: http://www.wikidata.org/entity/Q71309915
+FIDE id not found 6600255
+WIKIDATA: http://www.wikidata.org/entity/Q109421879
+FIDE id not found 13900625
+WIKIDATA: http://www.wikidata.org/entity/Q71296281
+FIDE id not found 3500705
+WIKIDATA: http://www.wikidata.org/entity/Q71296426
+FIDE id not found 1200585
+WIKIDATA: http://www.wikidata.org/entity/Q71296640
+FIDE id not found 701050
+WIKIDATA: http://www.wikidata.org/entity/Q71296871
+FIDE id not found 3800601
+WIKIDATA: http://www.wikidata.org/entity/Q71310706
+FIDE id not found 500526
+WIKIDATA: http://www.wikidata.org/entity/Q71294171
+FIDE id not found 1201220
+WIKIDATA: http://www.wikidata.org/entity/Q71294765
+FIDE id not found 704946
+WIKIDATA: http://www.wikidata.org/entity/Q71294821
+FIDE id not found 3100073
+WIKIDATA: http://www.wikidata.org/entity/Q71294992
+FIDE id not found 4500717
+WIKIDATA: http://www.wikidata.org/entity/Q71295056
+FIDE id not found 2256088
+WIKIDATA: http://www.wikidata.org/entity/Q71313548
+FIDE id not found 1701983
+WIKIDATA: http://www.wikidata.org/entity/Q71309657
+FIDE id not found 4300734
+WIKIDATA: http://www.wikidata.org/entity/Q108307546
+FIDE id not found 716197
+WIKIDATA: http://www.wikidata.org/entity/Q109410432
+FIDE id not found 600644
+WIKIDATA: http://www.wikidata.org/entity/Q11698838
+FIDE id not found 11600055
+WIKIDATA: http://www.wikidata.org/entity/Q4181766
+FIDE id not found 13603388
+WIKIDATA: http://www.wikidata.org/entity/Q71314203
+FIDE id not found 1503120
+WIKIDATA: http://www.wikidata.org/entity/Q113900075
+FIDE id not found 3000230
+WIKIDATA: http://www.wikidata.org/entity/Q85852502
+FIDE id not found 4102592
+WIKIDATA: http://www.wikidata.org/entity/Q101248510
+FIDE id not found 4179200
+WIKIDATA: http://www.wikidata.org/entity/Q101666214
+FIDE id not found 11500263
+WIKIDATA: http://www.wikidata.org/entity/Q109418963
+FIDE id not found 1501046
+WIKIDATA: http://www.wikidata.org/entity/Q114296501
+FIDE id not found 1500813
+WIKIDATA: http://www.wikidata.org/entity/Q114347350
