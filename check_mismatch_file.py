@@ -146,12 +146,11 @@ def check_mf_formatting(df: pd.DataFrame):
             )
 
         guid_pattern = re.compile(r"^Q\d+\$\w{8}-\w{4}-\w{4}-\w{4}-\w{12}$")
-        guid_patter_matches = df["statement_guid"].apply(
-            lambda x: bool(guid_pattern.match(str(x)))
+        guid_pattern_matches = df["statement_guid"].apply(
+            lambda x: bool(guid_pattern.match(str(x))) if not pd.isnull(x) else True
         )
 
-        if not guid_patter_matches.any():
-            print("Here")
+        if not guid_pattern_matches.any():
             df_formatted_correctly = False
             correction_instruction.append(
                 "Some values in the column `statement_guid` are not formatted correctly. GUIDs begin with a QID, which is then followed by a dollar sign and alphanumeric characters separated by dashes."
