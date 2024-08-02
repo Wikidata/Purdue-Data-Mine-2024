@@ -8,9 +8,9 @@ This repository contains the program materials and student work for Wikimedia De
 
 ## **Contents**
 
-- [MismatchGeneration](https://github.com/Wikidata/Purdue-Data-Mine-2024/tree/main/MismatchGeneration)
+- [mismatch_generation](https://github.com/Wikidata/Purdue-Data-Mine-2024/tree/main/mismatch_generation)
   - Student work to derive mismatches between Wikidata and external sources
-- [Notebooks](https://github.com/Wikidata/Purdue-Data-Mine-2024/tree/main/Notebooks)
+- [notebooks](https://github.com/Wikidata/Purdue-Data-Mine-2024/tree/main/notebooks)
   - Program materials to introduce Python, Jupyter, Wikidata data access and more
 
 ## Mismatch Process
