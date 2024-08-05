@@ -14,6 +14,9 @@ df_mismatches["external_value"].replace(
     "WH", "Woman Honorary Grandmaster", inplace=True
 )
 
+df_mismatches.loc[:, "statement_guid"] = np.nan
+df_mismatches.loc[:, "wikidata_value"] = np.nan
+
 df_mismatches.to_csv(
     "validated_titles_data_upload.csv",
     sep=",",
