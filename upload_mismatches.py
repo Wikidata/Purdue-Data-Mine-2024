@@ -199,7 +199,9 @@ if MISMATCH_FILES_DIR:
     mfd_mf_files = [f for f in mfd_files if f[-4:] == ".csv"]
     mfd_remaining_files = set(mfd_files) - set(mfd_mf_files)
 
-    assert not mfd_remaining_files, f"Mismatch directory is not empty. Please provide a {lower(parser._actions[4].help.split('(Optional) ')[1])}"
+    assert (
+        not mfd_remaining_files
+    ), f"Mismatch directory is not empty. Please provide a {lower(parser._actions[4].help.split('(Optional) ')[1])}"
 
     mfd_mf_paths = []
     for mf in mfd_mf_files:
@@ -225,7 +227,9 @@ if MISMATCH_FILES_DIR:
 
         too_large_mismatch_files_print_st = "\n".join(too_large_mismatch_files)
 
-        assert not too_large_mismatch_files, f"The size of one of the passed mismatch files via the --mismatch-files-dir (-mdf) argument is greater than the import file size limit of 10 MB. Please break it down into smaller CSV files and pass a directory containing only these CSVs to the --mismatch-files-dir (-mdf) argument. Mismatch files that are too large are:\n\n{too_large_mismatch_files_print_st}"
+        assert (
+            not too_large_mismatch_files
+        ), f"The size of one of the passed mismatch files via the --mismatch-files-dir (-mdf) argument is greater than the import file size limit of 10 MB. Please break it down into smaller CSV files and pass a directory containing only these CSVs to the --mismatch-files-dir (-mdf) argument. Mismatch files that are too large are:\n\n{too_large_mismatch_files_print_st}"
 
 # Section: Prepare components of the request.
 MF_API_IMPORT_URL = "https://mismatch-finder.toolforge.org/api/imports"
