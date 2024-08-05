@@ -6,7 +6,7 @@
 
 This repository contains the program materials and student work for Wikimedia Deutschland's project in the [2024 Purdue Data Mine](https://datamine.purdue.edu/). Students will focus on comparing data from [Wikidata](https://www.wikidata.org/) with external data sources and then derive and report mismatches for the [Wikidata Mismatch Finder](https://www.wikidata.org/wiki/Wikidata:Mismatch_Finder). The corrections of these mismatches by the Wikidata community will then serve to improve Wikidata's data and all downstream projects including [Wikipedia](https://www.wikipedia.org/).
 
-**Note**: The final blogpost of the project can be found [WIP].
+**Note**: The final blogpost for the project can be found [WIP](WIP).
 
 ## **Contents**
 
