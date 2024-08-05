@@ -3,8 +3,6 @@ import pandas as pd
 
 df_mismatches = pd.read_csv("validated_titles_data.csv")
 
-print(df_mismatches["external_value"].unique())
-
 df_mismatches["external_value"].replace(np.nan, "No title", inplace=True)
 df_mismatches["external_value"].replace("FM", "FIDE Master", inplace=True)
 df_mismatches["external_value"].replace("WFM", "Woman FIDE Master", inplace=True)
