@@ -32,7 +32,7 @@ python3 upload_mismatches.py \
 Example:
 
 python3 upload_mismatches.py \
-    --access-token YOUR_ACCESS_TOKEN \
+    --access-token "YOUR_ACCESS_TOKEN" \
     --mismatch-file mismatches_test.csv \
     --description "Test mismatches upload" \
     --external-source "Test Source" \
@@ -57,7 +57,7 @@ python3 upload_mismatches.py \
 Abbreviated arguments example:
 
 python3 upload_mismatches.py \
-    -pat YOUR_ACCESS_TOKEN \
+    -pat "YOUR_ACCESS_TOKEN" \
     -mf mismatches_test.csv \
     -des "Test mismatches upload" \
     -src "Test Source" \
@@ -164,8 +164,8 @@ assert ACCESS_TOKEN, f"Please provide {lower(parser._actions[2].help)}"
 assert (
     MISMATCH_FILE or MISMATCH_FILES_DIR and not (MISMATCH_FILE and MISMATCH_FILES_DIR)
 ), f"""Please provide a path via EITHER the --mismatch-file (-mf) OR --mismatch-files-dir (-mfd) arguments:
---mismatch-file (-mf): a {lower(parser._actions[3].help)}
---mismatch-files-dir (-mfd): a {lower(parser._actions[4].help)}"""
+--mismatch-file (-mf): {lower(parser._actions[3].help)}
+--mismatch-files-dir (-mfd): {lower(parser._actions[4].help)}"""
 
 assert EXTERNAL_SOURCE, f"Please provide {lower(parser._actions[6].help)}"
 
