@@ -162,7 +162,7 @@ else:
 
 # Section: Calculate how many CSVs should be made.
 # In the following, the second quantity is True (= 1) if there is a remainder of the division.
-number_of_split_mismatch_files = int(mf_size / 10) + (mf_size % 10 > 0)
+number_of_split_mismatch_files = int(mf_size / 10) + 1
 
 both_or_all = "both" if number_of_split_mismatch_files == 2 else "all"
 if VERBOSE:

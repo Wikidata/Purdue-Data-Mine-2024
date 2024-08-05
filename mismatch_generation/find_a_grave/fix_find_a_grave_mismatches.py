@@ -5,6 +5,7 @@ df_mismatches = pd.read_csv("find_a_grave_mismatches.csv")
 df_mismatches["statement_guid"] = (
     df_mismatches["statement_guid"]
     .str.replace("http://www.wikidata.org/entity/statement/", "")
+    .str.replace("-", "$", 1)
     .str.upper()
 )
 
